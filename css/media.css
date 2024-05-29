@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+  .fa-bars {
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+  h1 {
+    font-size: 55px;
+  }
+  .mywrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
